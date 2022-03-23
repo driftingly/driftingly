@@ -2,7 +2,7 @@
 
 **Pronouns:** He/Him
 
-Developer at Tighten | [Website](https://tighten.co/) / [GitHub](https://github.com/tighten).
+Developer at Tighten | [Website](https://tighten.com/) / [GitHub](https://github.com/tighten).
 
 [![GitHub Driftingly](https://img.shields.io/github/followers/driftingly?label=follow&style=social)](https://github.com/driftingly)
 [![Twitter: Driftingly](https://img.shields.io/twitter/follow/driftingly?style=social)](https://twitter.com/driftingly)
