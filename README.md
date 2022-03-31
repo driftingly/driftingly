@@ -10,7 +10,7 @@ Developer at Tighten | [Website](https://tighten.com/) / [GitHub](https://github
 
 ### I primarily work with:
 
-| Icon | Tech |
+| Icon | Organization |
 | --- | --- |
 | ![Laravel](https://avatars.githubusercontent.com/u/958072?s=20&v=4) | [Laravel](https://github.com/laravel) |
 | ![Livewire](https://avatars.githubusercontent.com/u/51960834?s=20&v=4) | [Livewire](https://github.com/livewire) |
