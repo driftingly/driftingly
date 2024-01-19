@@ -14,10 +14,11 @@ Developer at Tighten | [Website](https://tighten.com/) / [GitHub](https://github
 | --- | --- |
 | ![Laravel](https://avatars.githubusercontent.com/u/958072?s=20&v=4) | [Laravel](https://github.com/laravel) |
 | ![Livewire](https://avatars.githubusercontent.com/u/51960834?s=20&v=4) | [Livewire](https://github.com/livewire) |
-| ![Alpine JS](https://avatars.githubusercontent.com/u/59030169?s=20&v=4) | [Alpine JS](https://github.com/alpinejs) |
-| ![Tailwind CSS](https://avatars.githubusercontent.com/u/67109815?s=20&v=4) | [Tailwind CSS](https://github.com/tailwindlabs) |
-| ![Inertia JS](https://avatars.githubusercontent.com/u/47703742?s=20&v=4) | [Inertia JS](https://github.com/inertiajs) |
-| ![Vue JS](https://avatars.githubusercontent.com/u/6128107?s=20&v=4) | [Vue JS](https://github.com/vuejs) |
+| ![Alpine](https://avatars.githubusercontent.com/u/59030169?s=20&v=4) | [Alpine](https://github.com/alpinejs) |
+| ![Tailwind](https://avatars.githubusercontent.com/u/67109815?s=20&v=4) | [Tailwind](https://github.com/tailwindlabs) |
+| ![Inertia](https://avatars.githubusercontent.com/u/47703742?s=20&v=4) | [Inertia](https://github.com/inertiajs) |
+| ![Vue](https://avatars.githubusercontent.com/u/6128107?s=20&v=4) | [Vue](https://github.com/vuejs) |
+| ![React](https://avatars.githubusercontent.com/u/6412038?s=20&v=4) | [React](https://github.com/facebook/react) |
 
 ## Contact
 
